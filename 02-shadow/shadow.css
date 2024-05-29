@@ -1,0 +1,30 @@
+
+/* the for x, y */
+h1{
+    text-shadow: 2px 2px;
+}
+
+/* and the 3rd parameter is for the amount of blur */
+h2{
+    text-shadow: 2px 2px 10px blue;
+}
+
+/* we can also have a multiple shadows in one */
+h2{
+    text-shadow: 2px 2px 10px blue, 2px 2px 10px black;
+}
+/* more examples */
+h3{
+    text-shadow: 2px 2px 10px blue, 2px 2px 10px black, 2px 2px 10px red;
+}
+
+/* for shadows on boxes */
+
+
+/* the same applies for boxes */
+.box{
+    width: 30vw;
+    height: 20vh;
+    box-shadow: 2px 2px 10px blue, 2px 2px 10px black, 2px 2px 10px red;
+}
+

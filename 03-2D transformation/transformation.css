@@ -1,0 +1,67 @@
+
+/* translater takes in x and y cordinet and moves it */
+.translate{
+    width: 30vw;
+    height: 20vh;
+    margin: 30px;
+    border: solid;
+    /* transform: translate(50px, 100px); */
+    /* transform: translate(200px, 300px); */
+}
+
+.rotate{
+    width: 30vw;
+    height: 20vh;
+    margin: 30px;
+    border: solid;
+    /* transform: rotate(-20deg); */
+    /* transform: rotate(20deg); */
+}
+
+.scale{
+    width: 30vw;
+    height: 20vh;
+    margin: 30px;
+    border: solid;
+    
+    /* for full scale */
+
+    /* transform: scale(2); */
+    /* transform: scale(50%); */
+    /* transform: scale(0.5); */
+
+
+    /* for x scale */
+
+    /* transform: scaleX(2); */
+    /* transform: scaleX(50%);
+    transform: scaleX(0.5); */
+
+
+    /* for y scale */
+
+    /* transform: scaleY(2); */
+    /* transform: scaleY(50%);
+    transform: scaleY(0.5); */
+}
+
+.skew{
+    width: 30vw;
+    height: 20vh;
+    margin: 30px;
+    border: solid;
+
+
+    /* full skew */
+   
+    /* transform: skew(20deg); */
+
+
+    /* x and y skew */
+    
+    /* transform: skewX(20deg); */
+    /* transform: skewX(-20deg); */
+    /* transform: skewY(20deg); */
+    /* transform: skewY(-20deg); */
+}
+

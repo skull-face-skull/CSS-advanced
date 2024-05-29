@@ -1,0 +1,38 @@
+
+div{
+    height: 40vh;
+    width: 30vw;
+    border: solid;
+    margin: 20px;
+}
+
+div:hover{
+    width: 90vw;
+}
+
+.ease:hover{
+
+    transition: ease 2s;
+}
+
+
+.ease-in:hover{
+
+    transition: ease-in 2s;
+}
+
+.linear:hover{
+
+    transition: linear 2s;
+}
+
+.ease-out:hover{
+    
+    transition: ease-out 2s;
+}
+
+.ease-in-out:hover{
+    
+    transition: ease-in-out 2s;
+}
+

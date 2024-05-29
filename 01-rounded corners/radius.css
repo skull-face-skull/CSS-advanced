@@ -1,0 +1,40 @@
+
+body{
+    margin: 20px;
+}
+
+.box1{
+    border: solid 1px #000000;
+    height: 30vh;
+    width: 20vw;
+    background-color: gray;
+    text-align: center;
+    margin: 20px;
+
+    border-radius: 50px;
+}
+
+.box2{
+    border: solid 1px #000000;
+    height: 30vh;
+    width: 20vw;
+    background-color: gray;
+    text-align: center;
+    margin: 20px;
+
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 150px;
+    border-top-left-radius: 20px;
+}
+
+.box3{
+    border: solid 1px #000000;
+    height: 30vh;
+    width: 20vw;
+    background-color: gray;
+    text-align: center;
+    margin: 20px;
+
+    border-radius: 20px;
+}
